@@ -1,0 +1,92 @@
+[
+{
+    "id": 1,
+    "name": "IQOO Neo 9 Pro",
+    "category": "Smartphone",
+    "brand": "IQOO Neo 9 Pro",
+    "price": 37999,
+    "stock": 49,
+    "description": "Flasgship Level Performance-Snapdragon 8 Gen 2 Mobile platform based on TSMC 4nm process with tri cluster architecture of 1+4+3 which is clocked at 3.2GHz",
+    "image":"./public/iqoo neo 9 pro.jpg"
+},
+{
+    "id": 2,
+    "name": "Asus TUF Gaming F-15",
+    "category": "Laptop",
+    "brand": "Asus TUF Gaming F-15",
+    "price": 64999,
+    "stock": 89,
+    "description": "Processor-Intel Core i5-11400H Processor 2.7 GHz (12M Cache, upto 4.5GHz 6 Cores) with Windows 12 Operating System ",
+    "image":"./public/Asus Gaming.jpg"
+},
+{
+    "id": 3,
+    "name": "HyperX Cloud III",
+    "category": "Audio",
+    "brand": "HyperX Cloud III  ",
+    "price": 6999,
+    "stock": 38,
+    "description": "Premium Leatherette, 53mm Drivers tuned by Hyper Engineers, High Quality Audio for voice chat and gaming",
+    "image":"./public/hyper x.jpg"
+},
+{
+    "id": 4,
+    "name": "Sansung 28-Inch Odyssey 4K Gaming Monitor",
+    "category": "Monitor",
+    "brand": "Samsung 28-inch Odyssey 4K Gaming Monitor",
+    "price": 43920,
+    "stock": 15,
+    "description": "Samsung 28-inch 3840*2160 Pixels 4K Gaming, UHD, IPS, 144Hz, 1ms, Flat Monitor, Bezel-Less, HDR400 Black,(NVIDIA G Sync, Response Time: 1ms)",
+    "image":"./public/Samsung 28-inch.jpg"
+},
+{
+    "id": 5,
+    "name": "Logitech G502 Hero Gaming Mouse",
+    "category": "Gaming Accessories",
+    "brand": "Logitech G502 Hero Gaming Mouse",
+    "price": 9900,
+    "stock": 74,
+    "description": "25,600 max DPI, 11 Customizable Button and Onboard Memory, Compatibility with windows 7 or later and  macOS 10.12 or later,  16.8M Color RGB Lighting, Hero 25K Sensor",
+    "image":"./public/Logitech Mouse.jpg"
+},
+{
+    "id": 6,
+    "name": "Graphics Card",
+    "category": "CPU Accessories",
+    "brand": "Nvidia GeForce RTX 4070 Twin Edge 12GB GDDR6X",
+    "price": 52900,
+    "stock": 9,
+    "description": "Nvidia GeForce RTX 4070 Twin Edge Graphic Card is the ultimate choice for gamers and PC enthusiasts. With 12 GB of GDDR6X memory and the powerful NVIDIA GeForce RTX 4070 chipset, this graphic card delivers exceptional performance and stunning visual",
+    "image":"./public/Graphic Card.jpg"
+},
+{
+    "id": 7,
+    "name": "Controller",
+    "category": "Accessories",
+    "brand": "Sony DualSense Edge Wireless Controller - PS5",
+    "price": 15999,
+    "stock": 49,
+    "description": "Ultra Customizable Controls, Built-in DualSense wireless controller features, On-controller user interface, Ability to save multiple  profiles, Compatible with PS5",
+    "image":"./public/Controller.jpg"
+},
+{
+    "id": 8,
+    "name": "Keyboard",
+    "category": "Gaming Accessories",
+    "brand": "Alienware Tri-Mode Wireless Keyboard - AW920K",
+    "price": 19999,
+    "stock": 49,
+    "description": "Flexible Tri-Mode Connectivity (2.4GHz Wireless, Bluetooth 5.1, USB Wired), Robust Battery Life, Magnetic Snap-On Charging, Durable & Fade-Resistant, Smooth Performance, Customizable Rotating Dial",
+    "image":"./public/alienware keyboard.jpg"
+},
+{
+    "id": 9,
+    "name": "Gaming Chair",
+    "category": "Accessories",
+    "brand": "Green Soul Vision Gaming Chair",
+    "price": 17999,
+    "stock": 49,
+    "description": "The Adjustable neck pillow, flat and spacious seat provides ultimate comfort and support to body",
+    "image":"./public/Gaming Chair.jpg"
+}
+]
