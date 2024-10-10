@@ -2,7 +2,7 @@ const footerHTML =`
   <footer class="section-footer">
     <div class="footer-container container">
       <div class="content_1">
-        <img src ="./public/logo.png" alt="logo" />
+        <img src ="./public/Images/logo.png" alt="logo" />
         <p>
           Welcome to Gaming Store, <br />
           your  destination for best
@@ -13,8 +13,8 @@ const footerHTML =`
       </div>
       <div class="content_2">
         <h4>SHOPPING</h4>
-        <a href="#">Computer Store</a>
-        <a href="#">Laptop Store</a>
+        <a href="#">Mobiles</a>
+        <a href="#">Laptops</a>
         <a href="#">Accessories</a>
         <a href="#">Sales & Discount</a>
       </div>
